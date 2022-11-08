@@ -1,0 +1,2 @@
+FPSPrototype/Library filter=lfs diff=lfs merge=lfs -text
+FPSPrototype/Assets filter=lfs diff=lfs merge=lfs -text
